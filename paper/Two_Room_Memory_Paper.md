@@ -325,7 +325,7 @@ The complete set of 113 labeled training examples is available in the code repos
 
 Prototype implementation including the triviality gate classifier, validation suite, and Room 2 design specifications is available at:
 
-[GitHub repository URL — to be added upon publication]
+https://github.com/zachseven/two-room-memory-
 
 ---
 
