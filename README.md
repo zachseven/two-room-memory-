@@ -2,7 +2,7 @@
 
 A principled approach to LLM memory management via triviality gating.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18156234.svg)](https://doi.org/10.5281/zenodo.18156234)
+DOI 10.5281/zenodo.18156233
 
 ## The Problem
 
