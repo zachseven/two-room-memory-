@@ -259,6 +259,8 @@ Effective accuracy = (0.95 × 0.999) + (0.04 × 0.99) + (0.01 × 0.844)
                    = 99.7%
 ```
 
+While exact distributions will vary by application and user population, this calculation illustrates how adversarial accuracy on edge cases translates to expected real-world behavior. The key insight is that adversarial performance on the ambiguous 1% has minimal impact on overall system reliability.
+
 **What 84.4% on adversarial examples means in practice:**
 
 A user would need to generate approximately 600 edge-case utterances before losing a single meaningful memory to a false positive—and these edge cases themselves might represent 60,000+ typical conversational turns.
